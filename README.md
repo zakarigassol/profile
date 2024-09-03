@@ -13,10 +13,6 @@
   
 - 💞️ I’m looking to collaborate on Secure web development projects and also Cybersecurity projects including threat analysis and mitigation strategies.
   
-- 📫 How to reach me
-   Email: zakariu79@gmail.com
-   linkedin.com/in/zakari-usman-b070231a5
-  
 - 😄 Pronouns: he/him
   
 - ⚡ Fun fact: When I'm not studying, you'll probably find me watching football games/ news or watching travel adventure videos on the internet!
