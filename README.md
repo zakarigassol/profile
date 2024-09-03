@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning cybersecurity and I enjoy exploring the latest technologies and continually improving my skills to build secure and innovative digital solutions.
   
 - 💞️ I’m looking to collaborate on Secure web development projects and also Cybersecurity projects including threat analysis and mitigation strategies.
-- 
+  
 - 📫 How to reach me
    Email: zakariu79@gmail.com
-   linkedln: linkedin.com/in/zakari-usman-b070231a5
+   linkedin.com/in/zakari-usman-b070231a5
   
 - 😄 Pronouns: he/him
   
